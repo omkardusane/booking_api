@@ -5,5 +5,6 @@ This is a backend for a system which books Tables in a restraunt. APIs expose th
 
 Databae: 
 - MongoDB
+
 Platform: 
 - Node js, Expressjs, MongoJS
